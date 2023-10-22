@@ -1,5 +1,5 @@
-### Hi there 👋
-
+<h2 align="center">Hi there 👋</h2>
+![](https://komarev.com/ghpvc/?username=af-t&color=dc143c)
 <!--
 **af-t/af-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
