@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner.png" alt="Angga Firman Header Banner" width="100%" />
-</p>
-
 <h1 align="center">Hi there, I'm Angga Firman! 👋</h1>
 
 <p align="center">
@@ -44,19 +40,24 @@ I am a software engineer focused on building highly efficient, modular applicati
 
 ### 📂 Featured Projects
 
+<!-- PROJECTS_START -->
 <p align="center">
   <a href="https://github.com/af-t/disco">
     <img src="https://my-readme-five.vercel.app/api/pin/?username=af-t&repo=disco&theme=dracula" alt="disco" />
   </a>
-  <a href="https://github.com/af-t/hoyolab-auto-sign">
-    <img src="https://my-readme-five.vercel.app/api/pin/?username=af-t&repo=hoyolab-auto-sign&theme=dracula" alt="hoyolab-auto-sign" />
+  <a href="https://github.com/af-t/agent-sdk">
+    <img src="https://my-readme-five.vercel.app/api/pin/?username=af-t&repo=agent-sdk&theme=dracula" alt="agent-sdk" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/af-t/bitarray-node">
     <img src="https://my-readme-five.vercel.app/api/pin/?username=af-t&repo=bitarray-node&theme=dracula" alt="bitarray-node" />
   </a>
+  <a href="https://github.com/af-t/bench.js">
+    <img src="https://my-readme-five.vercel.app/api/pin/?username=af-t&repo=bench.js&theme=dracula" alt="bench.js" />
+  </a>
 </p>
+<!-- PROJECTS_END -->
 
 ---
 
