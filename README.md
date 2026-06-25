@@ -42,11 +42,11 @@ I am a software engineer focused on building highly efficient, modular applicati
 
 <!-- PROJECTS_START -->
 <p align="center">
-  <a href="https://github.com/af-t/disco">
-    <img src="https://my-readme-five.vercel.app/api/pin/?username=af-t&repo=disco&theme=dracula" alt="disco" />
-  </a>
   <a href="https://github.com/af-t/agent-sdk">
     <img src="https://my-readme-five.vercel.app/api/pin/?username=af-t&repo=agent-sdk&theme=dracula" alt="agent-sdk" />
+  </a>
+  <a href="https://github.com/af-t/disco">
+    <img src="https://my-readme-five.vercel.app/api/pin/?username=af-t&repo=disco&theme=dracula" alt="disco" />
   </a>
 </p>
 <p align="center">
